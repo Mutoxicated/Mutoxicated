@@ -1,4 +1,4 @@
 - Hello.
 - I do programming stuff.
-- I'm learning lua, c# and javascript at the moment.
+- I know lua and c#.
 - Big fan of https://pewpew.live/ 
