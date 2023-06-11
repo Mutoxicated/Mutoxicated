@@ -1,4 +1,4 @@
 - Hello.
 - I do programming stuff.
-- I know lua and c#.
+- I know lua, c# and a speck of powershell.
 - Big fan of https://pewpew.live/ 
