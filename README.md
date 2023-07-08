@@ -1,5 +1,5 @@
 - Hello.
-- I do programming stuff.
+- I do game development.
 - I know lua, c# and a speck of powershell.
 - Big fan of https://pewpew.live/ 
 
