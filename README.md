@@ -1,6 +1,6 @@
 - Hello.
 - I do game development plus some side projects.
-- I know lua, c# and a speck of powershell.
+- Lua learner, C# enthusiast and an avid rustacean.
 - Big fan of https://pewpew.live/ 
 
 Here are my stats because why not:
