@@ -1,6 +1,6 @@
 - Hello.
 - I do game development plus some side projects.
-- Lua learner, C# enthusiast, an avid rustacean and average golang user.
+- Lua learner, C# enthusiast, an avid rustacean, average golang user and C addict.
 - Big fan of https://pewpew.live/ 
 
 Here are my stats because why not:
