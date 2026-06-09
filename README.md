@@ -6,8 +6,9 @@
 Here are my stats because why not:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mutoxicated&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mutoxicated&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
 
 <img align="right" src="https://komarev.com/ghpvc/?username=Mutoxicated&color=e95c7d&label=Views">
 
