@@ -1,13 +1,13 @@
 name: Update README cards
 on:
  schedule:
- - cron: "0 3 * * *"
+ -cron: "0 3 * * *"
  workflow_dispatch:
 jobs:
  build:
  runs-on: ubuntu-latest
  steps:
- - uses: actions/checkout@v4
+ -uses: actions/checkout@v4
  with:
  token: ${{ secrets.PAT_TOKEN }}
 - name: Generate stats card
