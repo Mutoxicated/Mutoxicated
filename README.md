@@ -5,7 +5,6 @@
 
 Here are my stats because why not:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mutoxicated&theme=dark&background=000000)](https://git.io/streak-stats)
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
 ![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
